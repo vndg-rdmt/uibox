@@ -1,0 +1,29 @@
+{
+  "name": "uibox",
+  "version": "1.0.0",
+  "description": "Lightweight frontend framework for SPA",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vndg-rdmt/uibox.git"
+  },
+  "keywords": [
+    "typescript",
+    "spa",
+    "single-page",
+    "single-page-app",
+    "framework",
+    "light",
+    "routing",
+    "router",
+    "navigation",
+    "pages"
+  ],
+  "author": "Belousov Daniil",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vndg-rdmt/uibox/issues"
+  },
+  "homepage": "https://github.com/vndg-rdmt/uibox#readme"
+}
